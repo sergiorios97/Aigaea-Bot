@@ -64,14 +64,17 @@ Aigaea Bot is an advanced automation tool designed to streamline account registr
 
 ### 🔑 Keywords
 
-- Oasis-Reger
-- Oasis-Farmer
-- Oasis-Miner
-- Oasis-Multireger
-- Oasis-Multifarmer
-- Oasis-AutoFarm
-- Oasis-Extension-Bot
-- Oasis-Bot
-- Oasis-Multiwallet
+- Aigaea-Reger
+- Aigaea-Farmer
+- Aigaea-Miner
+- Aigaea-Multireger
+- Aigaea-Multifarmer
+- Aigaea-Extension-Bot
+- Aigaea-Bot
+- Aigaea-Multiwallet
+- Aigaea-AutoFarm
+- Aigaea-multibot
+- Aigaea-software
+- Aigaea-BotMiner- Oasis-Multiwallet
 
 ---
